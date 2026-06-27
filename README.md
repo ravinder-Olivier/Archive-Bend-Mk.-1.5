@@ -1,0 +1,2 @@
+# Archive-Bend-Mk.-1.5
+A preset enabled Tonebender Mark 1.5 inspired by Chase Bliss's Preamp Mark II, with moving faders, preset recall, and MIDI. Without compromising on its analog heritage.
